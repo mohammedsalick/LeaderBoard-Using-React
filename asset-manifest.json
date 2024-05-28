@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/LeaderBoard-Using-React/static/css/main.5951a819.css",
-    "main.js": "/LeaderBoard-Using-React/static/js/main.f995236d.js",
+    "main.css": "/LeaderBoard-Using-React/static/css/main.a429c780.css",
+    "main.js": "/LeaderBoard-Using-React/static/js/main.0b17652d.js",
     "static/js/453.bf2ca449.chunk.js": "/LeaderBoard-Using-React/static/js/453.bf2ca449.chunk.js",
     "index.html": "/LeaderBoard-Using-React/index.html",
-    "main.5951a819.css.map": "/LeaderBoard-Using-React/static/css/main.5951a819.css.map",
-    "main.f995236d.js.map": "/LeaderBoard-Using-React/static/js/main.f995236d.js.map",
+    "main.a429c780.css.map": "/LeaderBoard-Using-React/static/css/main.a429c780.css.map",
+    "main.0b17652d.js.map": "/LeaderBoard-Using-React/static/js/main.0b17652d.js.map",
     "453.bf2ca449.chunk.js.map": "/LeaderBoard-Using-React/static/js/453.bf2ca449.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5951a819.css",
-    "static/js/main.f995236d.js"
+    "static/css/main.a429c780.css",
+    "static/js/main.0b17652d.js"
   ]
 }
